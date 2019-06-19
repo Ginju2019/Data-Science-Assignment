@@ -1,2 +1,4 @@
 # Data-Science-Assignment
-Folder with questions, answers and screen shots(where necessary)
+This file is with the questions and answers for **S5 python Assignment**.
+
+I have included a screen shot for the first question.
